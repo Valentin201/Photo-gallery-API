@@ -1,4 +1,4 @@
-- Using API to display photo (Unspalsh).
+- Using API to display photos dynamically (Unspalsh).
 - Searching by photo category functionnality.
 - "Request Not found" message in case of searching keywords not matching API data. 
 - Fully Responsive to fit all screen and phones. 
