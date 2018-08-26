@@ -5,3 +5,4 @@
 - onHover (Name of the photographer) and onClick interactivity (See the photo Full screen)
 - Use of Axios to deal with Http requests.
 - Builded with React.js
+- Animated Logo name using Vivus.js 
