@@ -1,0 +1,6 @@
+- Using API to display photo (Unspalsh).
+- Searching by photo category functionnality.
+- Fully Responsive to fit all screen and phones. 
+- onHover (Name of the photographer) and onClick interactivity (See the photo Full screen)
+- Use of Axios to deal with Http requests.
+- Builded with React.js
